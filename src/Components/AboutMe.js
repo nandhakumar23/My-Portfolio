@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
-class Contactme extends Component{
+class AboutMe extends Component{
     render() {
         return(
             <div>
-                <h1> Contact Page</h1>
+                <h1> Fat n Sad</h1>
             </div>
 
         )
@@ -12,4 +12,4 @@ class Contactme extends Component{
 
 }
 
-export default Contactme;
+export default AboutMe;
